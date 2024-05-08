@@ -2,4 +2,4 @@
 
 hero section using HTML ,CSS and Javascript
 <br/>
-![demo img](https://github.com/hind-hisham/hind-hisham-Restaurant.github.io/blob/main/front-end.png)
+![demo img](https://github.com/hind-hisham/portfolio-hero-section/blob/main/hero.png)
